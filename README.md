@@ -3,5 +3,5 @@
 
 ## Vista rápida
 
-[El código de micropython está aquí](/micopython.py)
+El código de micropython está [aquí](/micopython.py)
 
