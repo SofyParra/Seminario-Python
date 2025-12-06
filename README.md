@@ -1,7 +1,9 @@
 # Codigo en Thonny, lectura potenciometro
 
 
-[![Open in VS Code Desktop](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](vscode://file/C:/Users/shofy/Desktop/Seminario/Seminario-Python)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](vscode://vscode.git/clone?url=https://github.com/SofyParra/Seminario-Python.git)
+
+
 
 
 
