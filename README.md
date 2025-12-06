@@ -1,5 +1,12 @@
 # Codigo en Thonny, lectura potenciometro
 
+
+[![Open in VS Code](https://github.com/SofyParra/Seminario-Python/blob/main/grafica.py)
+
+## Vista rápida
+
+![Codigo en Thonny](https://github.com/SofyParra/Seminario-Python/blob/main/Codigo%20en%20Thonny.png)
+
 ```
 from machine import ADC, Pin
 import time
